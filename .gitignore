@@ -1,0 +1,16 @@
+# Ignore compiled binaries
+*.exe
+*.o
+*.so
+
+# Ignore log files
+*.log
+
+# Ignore directories
+.vagrant/
+dist/
+scripts/
+
+# Ignore sensitive information
+credentials.txt
+Vagrantfile_bkp1
